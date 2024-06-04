@@ -6,4 +6,4 @@
 4. Create homework project 1
 5. Do a branch
 6. Merge locally as well as on Github
-Hello Professor! 
+7. Hello Professor! 
